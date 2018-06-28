@@ -1,0 +1,14 @@
+2018-06-28 14:40:29  INFO: Operating system name: Linux version: 3.16.0-4-amd64 architecture: amd64
+2018-06-28 14:40:29  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Oracle Corporation version: 25.151-b12
+2018-06-28 14:40:29  INFO: Memory limit heap: 491mb non-heap: 0mb
+2018-06-28 14:40:29  INFO: Character encoding: UTF-8 charset: UTF-8
+2018-06-28 14:40:29  INFO: Version: 3.17-SNAPSHOT
+2018-06-28 14:41:38  INFO: Operating system name: Linux version: 3.16.0-4-amd64 architecture: amd64
+2018-06-28 14:41:38  INFO: Java runtime name: OpenJDK 64-Bit Server VM vendor: Oracle Corporation version: 25.151-b12
+2018-06-28 14:41:38  INFO: Memory limit heap: 491mb non-heap: 0mb
+2018-06-28 14:41:38  INFO: Character encoding: UTF-8 charset: UTF-8
+2018-06-28 14:41:38  INFO: Version: 3.17-SNAPSHOT
+2018-06-28 14:43:41  INFO: Starting server...
+2018-06-28 14:45:15  INFO: user: 0, action: create, object: user, id: 2
+2018-06-28 14:45:19  INFO: user: 2, action: login
+2018-06-28 14:46:03  INFO: Shutting down server...
